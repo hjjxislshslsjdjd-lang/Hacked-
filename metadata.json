@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Hack Academy",
+  "description": "Learn ethical hacking from beginner to advanced level in a safe, legal simulation sandbox with quizzes, CTF challenges, badges, and AI cybersecurity tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
